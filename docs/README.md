@@ -1,4 +1,9 @@
-# Math formulas
+# Формулы для вычисления геометрических тел 
+## Содержание 
+### Прямоугольник (rectangle.py) 
+
+
+
 ## Area
 - Circle: S = πR²
 - Rectangle: S = ab
