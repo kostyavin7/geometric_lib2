@@ -223,4 +223,6 @@ print(triangle.area(3, 4))  # 6.0
 
 | Коммит | 
 |----|
+| c32007a |
+| 3aeed8f |
 | c972afb  |
